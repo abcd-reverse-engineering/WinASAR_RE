@@ -1,0 +1,2 @@
+D:\01\WinASAR\obj\Debug\WinASAR.csproj.AssemblyReference.cache
+D:\01\WinASAR\obj\Debug\WinASAR.csproj.CoreCompileInputs.cache
