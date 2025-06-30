@@ -1,7 +1,10 @@
 # WinASAR_RE
 使用 [dnSpyEx/dnSpy 6.5.1](https://github.com/dnSpyEx/dnSpy) 逆向脱壳后的 WinASAR 得到的工程文件（有错误，无法编译）。
 
-**软件壳分析工具**：DetectItEasy 3.10 x64（闭源）
+**软件壳分析工具**：DetectItEasy 3.10 x64（FOSS）
+
+- https://github.com/horsicq/DIE-engine
+- https://github.com/horsicq/Detect-It-Easy
 
 **加壳软件**：.NET Reactor（闭源）
 
