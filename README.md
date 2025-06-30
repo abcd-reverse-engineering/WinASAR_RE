@@ -1,7 +1,7 @@
 # WinASAR_RE
-使用 dnSpyEx 逆向脱壳后的 WinASAR 得到的工程文件（有错误，无法编译）。
+使用 [dnSpyEx/dnSpy 6.5.1](https://github.com/dnSpyEx/dnSpy) 逆向脱壳后的 WinASAR 得到的工程文件（有错误，无法编译）。
 
-**加壳软件**：.NET Reactor
+**加壳软件**：.NET Reactor（闭源）
 
 **脱壳软件**：NETReactorSlayer（FOSS）
 
