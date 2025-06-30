@@ -15,4 +15,4 @@
 WinASAR 项目主页：https://github.com/flydoos/WinASAR
 
 ## 免责声明 
-仅供研究程序运行逻辑，在未经 WinASAR 作者同意下禁止使用逆向源码。
+仅供研究程序运行逻辑，在未经 WinASAR 作者同意下禁止使用和修改逆向源码。
