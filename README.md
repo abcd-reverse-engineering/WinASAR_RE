@@ -5,7 +5,6 @@
 
 **脱壳软件**：NETReactorSlayer（FOSS）
 
-- GitLab.io：https://0x1.gitlab.io/reverse-engineering/NETReactorSlayer/
 - GitHub Repo：https://github.com/SychicBoy/NETReactorSlayer
 
 WinASAR 项目主页：https://github.com/flydoos/WinASAR
