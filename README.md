@@ -1,7 +1,7 @@
 # WinASAR_RE
 使用 [dnSpyEx/dnSpy 6.5.1](https://github.com/dnSpyEx/dnSpy) 逆向脱壳后的 WinASAR v1.5.0 得到的工程文件（有错误，无法编译）。
 
-备注：此处暂不提供 v1.6.0 及以上版本。
+备注：此处暂不提供 v1.6.0 及以上版本的逆向资源。
 
 软件最新版本：v1.6.1
 
