@@ -3,6 +3,8 @@
 
 备注：此处暂不提供 v1.6.0 及以上版本。
 
+软件最新版本：v1.6.1
+
 **软件壳分析工具**：Detect It Easy 3.10 x64（FOSS）
 
 - https://github.com/horsicq/DIE-engine
